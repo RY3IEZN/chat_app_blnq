@@ -1,16 +1,9 @@
-# flutter_chat_app_notiimagpck
+![image_2022-09-15_21-15-47](https://user-images.githubusercontent.com/73601265/190859847-c48067c6-59c1-4f1e-8bcb-496bae4592fe.png)
 
-A new Flutter project.
+A Simple and basic chat application,
 
-## Getting Started
+issues:
+a.Notifications only appear when in chatbox
+b.backend not return active users(online users)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
